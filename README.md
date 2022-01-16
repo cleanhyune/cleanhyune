@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=80EC6C&height=180&section=header&text=👋Hyune's&fontSize=50&fontColor=FFFFFF&fontAlign=80&fontAlignY=35)
-
-<span textAlign="center">Stack</span>
+<div align="center">
+<p>Stack</p>
 <p>
 <img src="https://img.shields.io/badge/Java-FA7128?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-FA7128?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -23,3 +23,4 @@
 <center>Learning</center><hr/>  
 
 <center>Interest</center>
+</div>
