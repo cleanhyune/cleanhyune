@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-2D84E1?style=flat-square&logo=TypeScript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring-51A829?style=flat-square&logo=Thymeleaf&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring Boot-62E028?style=flat-square&logo=Node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring Boot-62E028?style=flat-square&logo=Spring Boot&logoColor=white"/>
         <img src="https://img.shields.io/badge/Gralde-28E0DA?style=flat-square&logo=Gradle&logoColor=white"/>
         <img src="https://img.shields.io/badge/Oracle-F03F1F?style=flat-square&logo=Oracle&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-3E76DF?style=flat-square&logo=React&logoColor=white"/>
